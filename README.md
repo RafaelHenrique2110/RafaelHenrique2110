@@ -1,6 +1,6 @@
-Hi! World, eu sou o Andrew Raphael.
+Hi! World, eu sou o Rafael Henrique.
 👔 Hoje trabalhando com Construc 3 / Jogos 2D educacionais
-📓 Cursando Análise e Desenvolvimento de Sistemas
+📓 Cursando Jogos Digitais 
 🖥️ Desenvolvendo e Aprendendo linguagens FRONT-END
 
 <div align="center">
@@ -16,7 +16,7 @@ Hi! World, eu sou o Andrew Raphael.
 </div>
 
 <div>
-  <a href = "mailto:andrewrgpires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andrew-pires-rgcc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:RafaelHenrique2110"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-henrique-a98a26169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://w.app/7kemrf" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <div>
