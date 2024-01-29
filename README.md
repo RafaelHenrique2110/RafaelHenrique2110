@@ -5,15 +5,15 @@
 📓 Cursando engenharia de computação no Centro Federal de Educação Tecnológica.
 
 <div align="center">
-  <a href="https://github.com/MatheusPatricioo">
+  <a href="https://github.com/RafaelHenrique2110">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPatricioo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPatricioo&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenrique&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="MatheusPatricioo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MatheusPatricioo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="RafaelHenrique2110-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="RafaelHenrique2110-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MatheusPatricioo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
