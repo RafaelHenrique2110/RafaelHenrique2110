@@ -1,10 +1,12 @@
 ### Hi, eu sou o Matheus Patricio.<br>
-👔 Hoje trabalho com Construc 3 / Jogos 2D educacionais<br>
-📓 Cursando engenharia de computação no Centro Federal de educação tecnologica
+👔 Hoje trabalho com Construct 3 / Jogos 2D educacionais<br>
+📓 Cursando engenharia de computação no Centro Federal de educação tecnológica
 
 <div align="center">
   <a href="https://github.com/RafaelHenrique2110">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHenrique2110&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/RafaelHenrique2110">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenrique2110&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
