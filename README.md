@@ -20,4 +20,4 @@ Hi! World, eu sou o Rafael Henrique.
   <a href="https://www.linkedin.com/in/rafael-henrique-a98a26169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://w.app/7kemrf" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RafaelHenrique2110=anuraghazra&hide=contribs,prs)
+
