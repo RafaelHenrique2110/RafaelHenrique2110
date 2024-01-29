@@ -4,12 +4,15 @@
 
 📓 Cursando Jogos Digitais na Puc Minas.
 
-<div align="center">
-  <a href="https://github.com/RafaelHenrique2110">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHenrique2110&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenrique2110&show_icons=true&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+<div>
+    <a href="https://github.com/AndDevI/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelHenrique2110&theme=transparent" />
+</a>
+<a href="https://github.com/AndDevI/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelHenrique2110&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+ </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RafaelHenrique2110-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
